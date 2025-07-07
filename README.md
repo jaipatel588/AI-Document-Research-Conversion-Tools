@@ -17,3 +17,11 @@ npm install
 npm run dev
 
 Document Tools Software....
+ Current Status
+🔧 In progress for learning purposes
+
+❌ Not yet deployed online
+
+📁 Organized for easy backend and frontend separation
+
+🤖 AI theme identification logic coming soon
